@@ -75,6 +75,8 @@ The `integratedModule` is the central control circuit designed to execute variou
 
 The design was verified using GTKWave to observe the results and ensure correct functionality of the `integratedModule`. Various test cases were run to validate the operations and outputs of the ALU.
 
+![GTKWave Results](images/ModuleGTKwave.jpeg)
+
 ## Documentation
 
 A comprehensive report detailing the project, including design decisions, simulation results, and conclusions, was created using LaTeX. The report provides an in-depth analysis of the implementation and performance of the ALU functions and the control circuit.
