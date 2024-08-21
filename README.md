@@ -1,8 +1,18 @@
-# Computer Architecture Project: ALU Functions and Control Circuit
+# ALU Functions and Control Circuit
 
 ## Overview
 
-This project involves the design and implementation of an Arithmetic Logic Unit (ALU) with a range of operations using Verilog HDL. Over the semester, we developed various 4-bit gates and built upon them to create a comprehensive Control Circuit. The project culminates in the development of the `integratedModule` Verilog code, which performs a variety of 4-bit operations based on the provided opcode input.
+This project involves the design and implementation of an Arithmetic Logic Unit (ALU) with a range of operations using Verilog. Over the semester, we developed various 4-bit gates and built upon them to create a comprehensive Control Circuit. The project culminates in the development of the `integratedModule` Verilog code, which performs a variety of 4-bit operations based on the provided opcode input.
+
+## Leftover Group Members:
+- **Luis Herrera:**
+  - Added the Addition, Subtraction, and Multiplication gates.
+  - Created the complete Control Circuit and Test Bench.
+  - Documented the findings using LaTeX.
+  
+- **Alex Kaylor:** Provided initial 4-bit gates prior to leaving the class.
+- **Philip Ervin:** Provided descriptions of the gate circuits and test bench results.
+
 
 ## Project Components
 
